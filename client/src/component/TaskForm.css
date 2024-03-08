@@ -1,0 +1,13 @@
+form{
+    width: 500px;
+    padding: 20px;
+    height: 500px;
+    display: block;
+    box-shadow: 0 0 10px #ce8a8a;
+    border-radius: 10px;
+    text-align: center;
+    background-color: #f3f9f7;
+}
+input, textarea{
+    box-shadow: 0 0 5px #f2e7e7;
+}
